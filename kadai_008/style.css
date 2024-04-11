@@ -1,0 +1,10 @@
+.color-change:hover {
+    color: skyblue;
+}
+
+.form {
+    border: solid 1px black;
+    width: 400px;
+    margin: 2px 2px;
+    padding: 10px 10px;
+}
